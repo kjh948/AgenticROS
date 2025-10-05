@@ -41,7 +41,11 @@ py-xiaozhi 是一个使用 Python 实现的小智语音客户端，旨在通过�
 
 ### 🎯 核心AI功能
 
+<<<<<<< HEAD
 - **AI语音交互**：支持语音输入与识别，实现智能人机交互，提供自然流畅的对话体验
+=======
+- **AI语音交互**：Support voice input and recognition, realize intelligent human-computer interaction, and provide a natural and smooth dialogue experience
+>>>>>>> cab66c1 (1st commit)
 - **视觉多模态**：支持图像识别和处理，提供多模态交互能力，理解图像内容
 - **智能唤醒**：支持多种唤醒词激活交互，免去手动操作的烦恼（可配置开启）
 - **自动对话模式**：实现连续对话体验，提升用户交互流畅度
